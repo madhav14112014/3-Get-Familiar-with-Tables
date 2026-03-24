@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Links in Html</title>
+    </head>
+    <body>
+        <h1>Html Links</h1>
+        <p>Let's get into the world of <a href="https://www.codingal.com/student/dashboard/">codingal. </a></p>
+    </body>
+</html>
